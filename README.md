@@ -11,6 +11,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
+
+
+
 I'm a passionate developer who loves building cool stuff.
 
 - 🔭 I hold a degree in B.Sc , M.C,A.
@@ -25,6 +28,11 @@ I'm a passionate developer who loves building cool stuff.
 - ⚡ Fun fact: I automate my morning coffee ☕ with Java Beans!
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
+</p>
+
+
 
 ## 🛠️ Tech Stack
 
@@ -38,6 +46,11 @@ I'm a passionate developer who loves building cool stuff.
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/1hAXONQ9qFh7k/giphy.gif" width="300"/>
+</p>
+
+
 ## 📊 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=spalofficial&show_icons=true&theme=radical)
 
@@ -45,10 +58,23 @@ I'm a passionate developer who loves building cool stuff.
 
 ---
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
+</p>
+
+
+
 ## 🧠 Cool Projects
 - [Another Project](https://github.com/...) – Something awesome!
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+  <br/>
+  <b>Let's build something awesome together!</b>
+</p>
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/spalofficial)
