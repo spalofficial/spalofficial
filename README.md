@@ -2,10 +2,20 @@
 spalofficial/spalofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi, I’m Souvik Pal ! I have a degree in B.Sc , M.C,A.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>  
+</p>
+
+<h1 align="center"> 👋 Hi, I'm Souvik Pal  — Code, Coffee & Commits 💻☕</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6DB33F&center=true&vCenter=true&multiline=true&width=500&lines=Backend+Engineer+by+Day;Commit+Artist+by+Night;Clean+Code+is+my+Love+Language" alt="Typing SVG" />
+</p>
+
 
 I'm a passionate developer who loves building cool stuff.
 
+- 🔭 I hold a degree in B.Sc , M.C,A.
 - 🔭 I’m currently working on: `Port ERP Project, Kolkata Port Trust, under NIC, Govt of India`
 - 👀 I’m interested in FullStackDevelopment in Advanced Java and framework (Spring, Hibernate). I have sound knowledge in Programming with Java, C++, Python.
 - 🌱 I’m currently looking for opportunities ..
