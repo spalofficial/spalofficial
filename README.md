@@ -10,14 +10,8 @@ You can click the Preview link to take a look at your changes.
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6DB33F&center=true&vCenter=true&multiline=true&width=500&lines=Backend+Engineer+by+Day;Commit+Artist+by+Night;Clean+Code+is+my+Love+Language" 
     alt="Typing SVG" 
-    style="max-height: 100px;" 
   />
 </p>
-
-<br>
-
-<h1 align="center">Hi, I'm Spal 👋</h1>
-
 
 <br/> <!-- This line fixes the overlap -->
 <p align="center">
