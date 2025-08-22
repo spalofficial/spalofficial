@@ -37,7 +37,7 @@ I'm a passionate developer who loves building cool stuff.
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
+  <img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ5MW5ibzF3dzVmNHgxamlkNzhpenlqZm1rdjQ4b3c5eHpwd21pdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)" width="300"/>
 </p>
 
 
