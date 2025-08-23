@@ -33,7 +33,8 @@ I'm a passionate developer who loves building cool stuff.
 - 💞️ I’m looking to collaborate on freelance projects / job opportunities in IT / Govt Projects
 - 🌱 I’m learning: `System Design & Cloud Computing`
 - 💬 Ask me about: `Java, Spring, API, ERP`
-- 📫 How to reach me: [souvik.pal@outlook.in](mailto:souvik.pal@outlook.in) , https://www.linkedin.com/in/spalofficial , https://twitter.com/spalofficial , https://github.com/spalofficial/
+- 📫 How to reach me:
+- | [souvik.pal@outlook.in](mailto:souvik.pal@outlook.in) |https://www.linkedin.com/in/spalofficial | https://twitter.com/spalofficial | https://github.com/spalofficial |
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I automate my morning coffee ☕ with Java Beans!
 
@@ -84,12 +85,6 @@ I'm a passionate developer who loves building cool stuff.
   <br/>
   <b>Let's build something awesome together!</b>
 </p>
-
-
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/spalofficial)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/spalofficial)
-
 
 ## 🔗 Connect With Me
 
