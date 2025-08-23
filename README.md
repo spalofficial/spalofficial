@@ -57,7 +57,7 @@ I'm a passionate developer who loves building cool stuff.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1hAXONQ9qFh7k/giphy.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="300"/>
 </p>
 
 
@@ -70,7 +70,7 @@ I'm a passionate developer who loves building cool stuff.
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300"/>
 </p>
 
 
