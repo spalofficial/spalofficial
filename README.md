@@ -89,3 +89,19 @@ I'm a passionate developer who loves building cool stuff.
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/spalofficial)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/spalofficial)
+
+
+## 🔗 Connect With Me
+
+<a href="https://www.linkedin.com/in/spalofficial">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="50"/>
+  
+</a>
+
+<a href="https://twitter.com/spalofficial">
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height="50"/>
+</a>
+
+<a href="https://github.com/spalofficial">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height="50"/>
+</a>
