@@ -2,16 +2,18 @@
 spalofficial/spalofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
+<!--<p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>  
 </p>
-<h1 align="center">  Hi, I'm Souvik Pal  — Code, Coffee & Commits 💻☕</h1>
+-->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=6DB33F&center=true&vCenter=true&multiline=true&width=500&lines=Backend+Engineer+by+Day;Commit+Artist+by+Night;Clean+Code+is+my+Love+Language" 
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"
     alt="Typing SVG" 
   />
-</p>
+  </p>
+  
+<h1 align="center">  Hi, I'm Souvik Pal  — Code, Coffee & Commits 💻☕</h1>
+
 
 <br/> <!-- This line fixes the overlap -->
 <p align="center">
@@ -37,7 +39,7 @@ I'm a passionate developer who loves building cool stuff.
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ5MW5ibzF3dzVmNHgxamlkNzhpenlqZm1rdjQ4b3c5eHpwd21pdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ5MW5ibzF3dzVmNHgxamlkNzhpenlqZm1rdjQ4b3c5eHpwd21pdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
 </p>
 
 
